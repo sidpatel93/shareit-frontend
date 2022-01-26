@@ -1,7 +1,7 @@
 :root {
-  --main-bg-color: #edf5fe;
+  --main-bg-color: #f5ecd3;
   --light-blue: #03a9f4;
-  --border-color: #0288d147;
+  --border-color: #acbef2;
   --container-width: 500px;
 }
 
@@ -239,10 +239,10 @@ body,
   font-size: 18px;
   padding: 8px 40px;
   margin-top: 15px;
-  background: var(--main-bg-color);
+  background: var(--light-blue);
   border: none;
   border-radius: 5px;
-  color: #607d8b;
+  color: #fff;
   cursor: pointer;
 }
 
